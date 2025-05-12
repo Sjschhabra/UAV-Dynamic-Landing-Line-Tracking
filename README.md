@@ -115,10 +115,10 @@ Use a **top-down external camera feed** to detect a marker on the ground and dyn
 Here are some **demo videos** demonstrating both the line-following and marker detection:
 
 - **Final: Demonstration Video**  
-  [Watch Line Following Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+  [Watch Line Following Demo on YouTube](https://www.youtube.com/watch?v=YCd7i0CGpko)
 
 - **Phase 1 & 2: Matlab Video**  
-  [Watch Marker Landing Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+  [Watch Marker Landing Demo on YouTube](https://www.youtube.com/watch?v=TPa2Ms_d0aI)
 
 These videos show the drone autonomously following a line and landing on a marker in both simulated and real-world environments.
 
