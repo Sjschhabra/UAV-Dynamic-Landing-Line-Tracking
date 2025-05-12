@@ -1,0 +1,116 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   14 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "sfEvent"\
+      Description  "ActiveChartEvent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "doneDoubleBufferReInit"\
+      Description  "DoubleBufferInitCheck"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "startTime"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:176-185"\
+    }\
+    ChartData {\
+      Name         "startTime_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:176-185"\
+    }\
+    ChartData {\
+      Name         "x"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:186-187"\
+    }\
+    ChartData {\
+      Name         "x_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:186-187"\
+    }\
+    ChartData {\
+      Name         "y"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:188-189"\
+    }\
+    ChartData {\
+      Name         "y_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:188-189"\
+    }\
+    ChartData {\
+      Name         "yaw"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:190-193"\
+    }\
+    ChartData {\
+      Name         "yaw_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:190-193"\
+    }\
+    ChartData {\
+      Name         "z"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:194-195"\
+    }\
+    ChartData {\
+      Name         "z_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "flightControlSystem:2772:194-195"\
+    }\
+    ChartData {\
+      Name         "freq"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "C:\Program Files\MATLAB\R2024b\toolbox\shared\coder\coder\lib\+coder\+internal\+time\CoderTimeAPI.m:5178-5182"\
+    }\
+    ChartData {\
+      Name         "freq_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "C:\Program Files\MATLAB\R2024b\toolbox\shared\coder\coder\lib\+coder\+internal\+time\CoderTimeAPI.m:5178-5182"\
+    }\
+  }
+  %return ChartDataElements
+%endfunction
