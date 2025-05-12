@@ -4,9 +4,18 @@ This repository contains the complete implementation of a **two-phase autonomous
 
 ---
 
-![Drone](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/parrot_pf727008aa_mambo_minidrone_fly_black_1506511313_1362995.jpg)
-![Line_Track](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(96).png)
+## 🎥 Video Demonstrations
 
+Here are some **demo videos** demonstrating both the line-following and marker detection:
+- **Final: Demonstration Video**  
+  [Watch Line Following Demo on YouTube](https://www.youtube.com/watch?v=YCd7i0CGpko)
+- **Phase 1 & 2: Matlab Video**  
+  [Watch Marker Landing Demo on YouTube](https://www.youtube.com/watch?v=TPa2Ms_d0aI)
+
+---
+
+
+![Drone](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/parrot_pf727008aa_mambo_minidrone_fly_black_1506511313_1362995.jpg)
 ---
 
 ## 🚦 Phase 1: Line Following using Onboard Vision
@@ -14,6 +23,11 @@ This repository contains the complete implementation of a **two-phase autonomous
 ### 🎯 Goal
 
 Use onboard camera video feed to **track a black line on a white surface** and follow it autonomously.
+
+---
+
+
+![Line_Track](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(96).png)
 
 ---
 
@@ -106,20 +120,6 @@ Use a **top-down external camera feed** to detect a marker on the ground and dyn
 - Simulink
 - Simulink Support Package for Parrot Minidrones
 - MATLAB Image Processing Toolbox
-
----
-
-## 🎥 Video Demonstrations
-
-Here are some **demo videos** demonstrating both the line-following and marker detection:
-
-- **Final: Demonstration Video**  
-  [Watch Line Following Demo on YouTube](https://www.youtube.com/watch?v=YCd7i0CGpko)
-
-- **Phase 1 & 2: Matlab Video**  
-  [Watch Marker Landing Demo on YouTube](https://www.youtube.com/watch?v=TPa2Ms_d0aI)
-
-These videos show the drone autonomously following a line and landing on a marker in both simulated and real-world environments.
 
 ---
 
