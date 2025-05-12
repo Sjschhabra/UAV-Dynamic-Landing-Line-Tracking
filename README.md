@@ -3,7 +3,7 @@
 This repository contains the complete implementation of a **two-phase autonomous flight pipeline** for a drone using **MATLAB and Simulink**. The system uses **onboard vision for line following**, and then switches to **external camera-based marker tracking** for dynamic landing.
 
 ---
-![Image Description]([https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(96).png])
+![Image Description](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(96).png)
 
 ---
 
@@ -128,8 +128,8 @@ These videos show the drone autonomously following a line and landing on a marke
 
 Below is a simple diagram illustrating the flow of control between both phases:
 
-![System Diagram Line Following]([https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(95).png])
-![System Diagram Patch Following]([https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(94).png])
+![System Diagram Line Following](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(95).png)
+![System Diagram Patch Following](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(94).png)
 
 ---
 
