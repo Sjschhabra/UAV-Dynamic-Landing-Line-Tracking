@@ -11,10 +11,7 @@ Here are some **demo videos** demonstrating both the line-following and marker d
   [Watch Line Following Demo on YouTube](https://www.youtube.com/watch?v=YCd7i0CGpko)
 - **Phase 1 & 2: Matlab Video**  
   [Watch Marker Landing Demo on YouTube](https://www.youtube.com/watch?v=TPa2Ms_d0aI)
-
 ---
-
-
 ![Drone](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/parrot_pf727008aa_mambo_minidrone_fly_black_1506511313_1362995.jpg)
 ---
 
@@ -25,10 +22,7 @@ Here are some **demo videos** demonstrating both the line-following and marker d
 Use onboard camera video feed to **track a black line on a white surface** and follow it autonomously.
 
 ---
-
-
 ![Line_Track](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(96).png)
-
 ---
 
 ### 🧠 Vision Processing & Control Logic
