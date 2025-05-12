@@ -3,6 +3,7 @@
 This repository contains the complete implementation of a **two-phase autonomous flight pipeline** for a drone using **MATLAB and Simulink**. The system uses **onboard vision for line following**, and then switches to **external camera-based marker tracking** for dynamic landing.
 
 ---
+![Image Description](https://your-https-link.com/image.png)
 
 ---
 
