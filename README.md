@@ -3,10 +3,9 @@
 This repository contains the complete implementation of a **two-phase autonomous flight pipeline** for a drone using **MATLAB and Simulink**. The system uses **onboard vision for line following**, and then switches to **external camera-based marker tracking** for dynamic landing.
 
 ---
+
 ![Drone](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/parrot_pf727008aa_mambo_minidrone_fly_black_1506511313_1362995.jpg)
 ![Line_Track](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/Screenshot%20(96).png)
----
-
 
 ---
 
@@ -152,6 +151,6 @@ Arizona State University
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License].
 
 
