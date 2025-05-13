@@ -90,7 +90,7 @@ Use a **top-down external camera feed** to detect a marker on the ground and dyn
 - Takes in the detected marker centroid.
 - Calculates:
   - `dx`, `dy`: displacement vector from current position to marker.
-  - `angle`: direction to rotate (via `atan2(dy, dx)`).
+  - `angle`: direction to move to (via `atan2(dy, dx)`).
   - `distance`: how far the drone is from the marker.
 
 - Movement Logic:
