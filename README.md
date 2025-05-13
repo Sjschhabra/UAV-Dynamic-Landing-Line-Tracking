@@ -10,7 +10,7 @@ Here are some **demo videos** demonstrating both the line-following and marker d
 - **Final: Demonstration Video**  
   [Watch Line Following Demo on YouTube](https://www.youtube.com/watch?v=YCd7i0CGpko)
 - **Phase 1 & 2: Matlab Video**  
-  [Watch Marker Landing Demo on YouTube](https://www.youtube.com/watch?v=TPa2Ms_d0aI)
+  [Watch Matlab Demo on YouTube](https://www.youtube.com/watch?v=TPa2Ms_d0aI)
 ---
 ![Drone](https://raw.githubusercontent.com/Sjschhabra/uav-dynamic-landing-line-tracking/refs/heads/main/parrot_pf727008aa_mambo_minidrone_fly_black_1506511313_1362995.jpg)
 ---
