@@ -32,7 +32,7 @@ Use onboard camera video feed to **track a black line on a white surface** and f
    - This makes the line detection independent of lighting variations.
 
 2. **Sectional Analysis**:
-   - Each binary image frame is divided into **7 equal horizontal sections**.
+   - Each binary image frame is divided into **more than 7 sections**.
    - For each section (left to right: `vL`, `v1`, `v3`, `v5`, `vR`, `vE`, `center`), calculate the **sum of white pixels** as a percentage.
 
 3. **Input Vector to Controller**:
